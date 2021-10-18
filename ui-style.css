@@ -6,3 +6,12 @@
   position: fixed;
   z-index:500;
 }
+.ui-window-jjs-wind{
+  position: absolute;
+  top: 0;
+  left 0;
+  z-index: 501;
+  background: rgb(236, 235, 235);
+  width: 300px;
+  border: 10px solid;
+}
